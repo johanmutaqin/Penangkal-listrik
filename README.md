@@ -1,2 +1,0 @@
-# Penangkal-listrik
-Web
